@@ -7042,16 +7042,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\govardhan.nandi\\practice\\practice.csproj",
+      "projectUniqueName": "C:\\Users\\govardhan.nandi\\Documents\\Practice\\practice.csproj",
       "projectName": "practice",
-      "projectPath": "C:\\Users\\govardhan.nandi\\practice\\practice.csproj",
-      "outputPath": "C:\\Users\\govardhan.nandi\\practice\\obj\\",
+      "projectPath": "C:\\Users\\govardhan.nandi\\Documents\\Practice\\practice.csproj",
+      "outputPath": "C:\\Users\\govardhan.nandi\\Documents\\Practice\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/practice.dll": "C:\\Users\\govardhan.nandi\\practice\\bin\\placeholder\\netcoreapp1.1\\practice.dll"
+        "lib/netcoreapp1.1/practice.dll": "C:\\Users\\govardhan.nandi\\Documents\\Practice\\bin\\placeholder\\netcoreapp1.1\\practice.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
